@@ -1,6 +1,7 @@
 Role Models
 Books
 Movies
+Music
 Hacks
 Achievement
 Love
