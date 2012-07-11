@@ -10,5 +10,26 @@ body{
 }
 #header{
 	padding-top:60px;
-	font-size:xx-large;
+	font-size:5em;
+}
+#left-border{
+	border-top: 4px solid #fff;
+	border-left: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+	float:left;
+	height:90px;
+	width:30px;
+}
+
+#right-border{
+	border-top: 4px solid #fff;
+	border-right: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+	float:right;
+	height:90px;
+	width:30px;
+}
+
+#tag{
+	font-size:.5em;
 }
