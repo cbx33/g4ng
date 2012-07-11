@@ -1,0 +1,14 @@
+/* --- Main line styles --- */
+
+body{
+	background-color:#00abcd;
+	font-family:Georgia, serif;
+	font-size:small;
+	color:#fff;
+	line-height:300%;
+
+}
+#header{
+	padding-top:60px;
+	font-size:xx-large;
+}
