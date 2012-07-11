@@ -1,4 +1,4 @@
 g4ng
 ====
 
-Geeks for Non-Geeks
+geeks for Non-Geeks
