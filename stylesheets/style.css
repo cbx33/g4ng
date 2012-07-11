@@ -33,3 +33,8 @@ body{
 #tag{
 	font-size:.5em;
 }
+
+#content{
+	padding-top:20px;
+	text-align:justify;
+}
